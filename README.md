@@ -114,11 +114,11 @@ DeepSeek has the highest average productivity score among the analyzed AI tools.
 
 Implemented and compared three classification algorithms:
 
-Decision Tree Classifier
+1. Decision Tree Classifier
 
-K-Nearest Neighbors (KNN)
+2. K-Nearest Neighbors (KNN)
 
-Support Vector Machine (SVM)
+3. Support Vector Machine (SVM)
 
 **Techniques used:**
 
